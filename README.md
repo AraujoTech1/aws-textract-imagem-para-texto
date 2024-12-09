@@ -15,7 +15,7 @@ Descrição do projeto: Este projeto utiliza o **AWS Textract** para transcrever
 - **AWS SDK**
 - **AWS S3**
 
-## Testes de Segurança 
+## +Testes de Segurança 
 
 - Para este projeto, os testes de segurança incluem garantir que as credenciais da AWS estejam configuradas corretamente e que não haja vazamento de informações sensíveis
 - É recomendado o uso de **IAM roles** adequadas para restringir acessos e garantir segurança na utilização dos serviços AWS
