@@ -1,4 +1,4 @@
-# Transcrição de Imagem em Texto com AWS Textract
+<h1 align="center">Transcrição de Imagem em Texto com AWS Textract</h1>
 
 Descrição do projeto: Este projeto utiliza o **AWS Textract** para transcrever o texto de uma imagem, utilizando o Python para integração com a AWS.
 
