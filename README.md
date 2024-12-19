@@ -10,10 +10,10 @@ Descrição do projeto: Este projeto utiliza o **AWS Textract** para transcrever
 
 ## Tecnologias Utilizadas
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900?logo=aws&logoColor=white)
-![AWS SDK](https://img.shields.io/badge/AWS_SDK-FF9900?logo=aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900?style=for-the-badge&logo=aws&logoColor=white)
+![AWS SDK](https://img.shields.io/badge/AWS_SDK-FF9900?style=for-the-badge&logo=aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=aws&logoColor=white)
 
 ## Testes de Segurança 
 
