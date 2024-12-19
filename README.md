@@ -10,12 +10,12 @@ Descrição do projeto: Este projeto utiliza o **AWS Textract** para transcrever
 
 ## Tecnologias Utilizadas
 
-- **AWS Textract**
-- **Python**
-- **AWS SDK**
-- **AWS S3**
+![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900?logo=aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![AWS SDK](https://img.shields.io/badge/AWS_SDK-FF9900?logo=aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=aws&logoColor=white)
 
-## +Testes de Segurança 
+## Testes de Segurança 
 
 - Para este projeto, os testes de segurança incluem garantir que as credenciais da AWS estejam configuradas corretamente e que não haja vazamento de informações sensíveis
 - É recomendado o uso de **IAM roles** adequadas para restringir acessos e garantir segurança na utilização dos serviços AWS
