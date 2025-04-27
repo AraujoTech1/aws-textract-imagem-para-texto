@@ -1,6 +1,8 @@
 <h1 align="center">Transcrição de Imagem em Texto com AWS Textract</h1>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+</p>
 
----
 
 ## Descrição  
 
